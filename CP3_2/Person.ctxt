@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=name
+comment1.target=Person(java.lang.String)
+comment2.params=name\ weight\ height
+comment2.target=Person(java.lang.String,\ float,\ int)
+comment3.params=height\ weight
+comment3.target=int\ setHeightAndWeight(int,\ int)
+numComments=4
